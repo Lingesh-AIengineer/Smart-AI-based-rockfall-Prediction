@@ -15,5 +15,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "/Smart-AI-Based-Rockfall-Prediction",
+  base: "/Smart-AI-based-rockfall-Prediction/",
 }));
